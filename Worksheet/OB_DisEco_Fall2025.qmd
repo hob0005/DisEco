@@ -1,0 +1,23 @@
+---
+title: "OB_DisEco_Fall2025"
+author: "Olivia Burgess"
+format: html
+editor: visual
+---
+
+## 8/29/25
+
+Quarto is a powerful tool for creating dynamic documents that combine text, code, and data visualizations. For your assignments and worksheets, using Quarto will allow you to seamlessly integrate your analysis with your written explanations/comments, making your reports more cohesive and professional.
+
+```{r}
+# Function to calculate the area of a circle
+area_of_circle <- function(radius) {
+  area <- pi * radius^2
+  return(area)
+}
+radius <- 5 # from the example
+circle_area <- area_of_circle(radius)
+cat("The area of the circle with radius", radius, "is", circle_area, "\n")
+```
+
+![This image captures the three corners of the epidemiological triad.is a model for researching health issues, particularly infectious diseases, by examining how th external conditions that either promote or prevent the spread of disease, the pathogen that causes the disease, and the organism that becomes infected. All three elements need to be present and interconnected for a disease to manifest.](images/EpiTriad.png){fig-align="center"}
