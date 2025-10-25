@@ -22,6 +22,29 @@ cat("The area of the circle with radius", radius, "is", circle_area, "\n")
 
 ![This image captures the three corners of the epidemiological triad.is a model for researching health issues, particularly infectious diseases, by examining how th external conditions that either promote or prevent the spread of disease, the pathogen that causes the disease, and the organism that becomes infected. All three elements need to be present and interconnected for a disease to manifest.](images/EpiTriad.png){fig-align="center"}
 
+test corrections
+
+4.  a\. 0.125 days\^-1 1/8
+
+    b\. 2(7)=14 1/14= 0.0714 days \^-1
+
+    c.Rnot=beta/y
+
+    beta=Rnot/y
+
+    15(0.125)=1.875 days \^-1 measles
+
+    17(0.0714) = 1.2138 days\^-1 Rotavirus
+
+    d\. Reff=Rnot(s)
+
+    s=1-0.8=0.2
+
+    15(0.30)=2
+
+
+7.  The infection was caused by Pasteurella multocida because although it is harmless in antelopes' respiratory tracts it became virulent due to tempurature and humidity which caused hemorrhagic septicemia. To prevent this in the future, disease surveillance can be implemented to monitor the health of species and environment and vaccination protocols and manage the habitat to ensure it is diverse and healthy to promote a strong immune system within animals
+
 10/23/25
 
 Middle East respiratory syndrome coronavirus (MERS-CoV) is mostly found in camels\
@@ -58,4 +81,5 @@ False. Only about 35% of human MERS infections have resulted in death, despite t
 False. A point source outbreak would be indicated by a single peak on the epidemic curve, showing an inflow of cases brought on by a single exposure event. However, following the initial exposure or influx of cases, the number of cases would gradually decline.  Although there is a noticeable decline in occurrences in this epidemic curve after 2020, we can observe a propagating source here where animals are infecting people and some humans are infecting other humans.
 
 ------------------------------------------------------------------------
+
 
