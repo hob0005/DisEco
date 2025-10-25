@@ -21,3 +21,41 @@ cat("The area of the circle with radius", radius, "is", circle_area, "\n")
 ```
 
 ![This image captures the three corners of the epidemiological triad.is a model for researching health issues, particularly infectious diseases, by examining how th external conditions that either promote or prevent the spread of disease, the pathogen that causes the disease, and the organism that becomes infected. All three elements need to be present and interconnected for a disease to manifest.](images/EpiTriad.png){fig-align="center"}
+
+10/23/25
+
+Middle East respiratory syndrome coronavirus (MERS-CoV) is mostly found in camels\
+(dromedaries), and direct physical contact with camels can lead to transmission to\
+humans. Limited human-to-human transmission can occur after close contact and has\
+resulted in health care–associated outbreaks. Human MERS-CoV infection can cause\
+severe respiratory illness; approximately 35% of reported MERS cases have died.\
+Distribution of confirmed cases of MERS by place of infection and month of onset, April\
+2012 – September 2025 (European Centre for Disease Prevention and Control)
+
+**Which of the following statements about MERS-CoV are correct? (If it is incorrect,\
+provide an explanation why the statement is incorrect.)**
+
+\
+1. MERS-CoV is primarily maintained in human populations. 
+
+False. Although camels are the main reservoir host species for MERS-CoV, humans can contract the virus and spread it to other vulnerable people.
+
+2. Camels serve as the main animal reservoir for MERS-CoV. 
+
+True. MERS-CoV is a coronavirus that primarily infects camels in the Middle East, but it can also infect people.
+
+3. Humans are dead-end hosts for MERS-CoV. 
+
+False.mAlthough the virus can only finish brief infection chains, MERS-CoV can infect humans.  Although the disease can infiltrate the target population, it is unable to endure.
+
+4. The estimated case fatality rate for human MERS-CoV infections is approximately\
+65%. 
+
+False. Only about 35% of human MERS infections have resulted in death, despite the case fatality rate for MERS-CoV may be greater due to underreporting or other factors.
+
+5. The epidemic curve indicates this is a point source outbreak.
+
+False. A point source outbreak would be indicated by a single peak on the epidemic curve, showing an inflow of cases brought on by a single exposure event. However, following the initial exposure or influx of cases, the number of cases would gradually decline.  Although there is a noticeable decline in occurrences in this epidemic curve after 2020, we can observe a propagating source here where animals are infecting people and some humans are infecting other humans.
+
+------------------------------------------------------------------------
+
