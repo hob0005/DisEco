@@ -80,6 +80,11 @@ False. Only about 35% of human MERS infections have resulted in death, despite t
 
 False. A point source outbreak would be indicated by a single peak on the epidemic curve, showing an inflow of cases brought on by a single exposure event. However, following the initial exposure or influx of cases, the number of cases would gradually decline.  Although there is a noticeable decline in occurrences in this epidemic curve after 2020, we can observe a propagating source here where animals are infecting people and some humans are infecting other humans.
 
+
+1. This Marburg virus outbreak is an emerging infectious disease.  With accidental contact with the reservoir bats, the between-species transfer is .  Nonetheless, there is a comparatively high rate of within-species transmission among healthcare personnel or other individuals in exposed environments.  According to the community epidemiology paradigm created by Fenton and Pedersen, this dynamic fulfills the definition of a possible developing infectious illness.  The outbreak is not only spillover due to human-to-human transmission.  Humans are typically a dead end host in a spillover occurrence because the disease cannot persist for an extended period of time outside of the reservoir host species.
+
+2. Isolation must be required for known Marburg cases.  For extremely likely suspected instances, seclusion may also be necessary.  Isolation does increase the danger of exposure and infection for medical staff and maybe other patients at connected facilities.  Strict personal protective equipment (PPE) regulations, negative pressure rooming, and disinfection and sterilization standards can all help reduce this exposure and infection.  Safe waste management, safe burial and body management, and caving certification or limits are some further concurrent risk-reduction strategies.
 ------------------------------------------------------------------------
+
 
 
