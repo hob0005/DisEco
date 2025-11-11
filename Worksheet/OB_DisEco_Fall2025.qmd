@@ -84,7 +84,23 @@ False. A point source outbreak would be indicated by a single peak on the epidem
 1. This Marburg virus outbreak is an emerging infectious disease.  With accidental contact with the reservoir bats, the between-species transfer is .  Nonetheless, there is a comparatively high rate of within-species transmission among healthcare personnel or other individuals in exposed environments.  According to the community epidemiology paradigm created by Fenton and Pedersen, this dynamic fulfills the definition of a possible developing infectious illness.  The outbreak is not only spillover due to human-to-human transmission.  Humans are typically a dead end host in a spillover occurrence because the disease cannot persist for an extended period of time outside of the reservoir host species.
 
 2. Isolation must be required for known Marburg cases.  For extremely likely suspected instances, seclusion may also be necessary.  Isolation does increase the danger of exposure and infection for medical staff and maybe other patients at connected facilities.  Strict personal protective equipment (PPE) regulations, negative pressure rooming, and disinfection and sterilization standards can all help reduce this exposure and infection.  Safe waste management, safe burial and body management, and caving certification or limits are some further concurrent risk-reduction strategies.
+
+11/9/25 (#6)
+
+Pond 1
+Prevalence 30.0%
+95% CI: lower 14.0%, upper 52.5%
+
+Pond 2
+Prevalence: 6.7%
+95% CI: lower 0.3%, upper 30.2%
+
+p-value: 0.1987
+The prevalence values are not statistically significant at a p-value of 0.1987 because it is greater than 0.05.
+
+
 ------------------------------------------------------------------------
+
 
 
 
