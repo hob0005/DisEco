@@ -99,7 +99,23 @@ p-value: 0.1987
 The prevalence values are not statistically significant at a p-value of 0.1987 because it is greater than 0.05.
 
 
-------------------------------------------------------------------------
+Nipah virus ecology varies across regions, resulting in distinct patterns of transmission in places like Malaysia and Bangladesh. Describe how the modes of transmission differ between these two regions and explain how these differences influence the preventive measures recommended in each setting. (8 points)
+
+The ecology of the Nipah virus differs throughout South and Southeast Asia. Pig bridge hosts are the primary means of transmission for the Nipah virus. Humans primarily contract the Nipah virus from infected pigs, whereas pigs can contract it via bats or fruit tainted with bat excrement. Both of these occur within Malaysia. However tainted date palm sap frequently infects people with the Nipah virus in Bangladesh. Bat excrement will contaminate the buckets used to gather sap, and eating raw sap can infect people. Since contact with infected pigs accounts for the majority of cases in Malaysia, early detection and surveillance of the disease is an important preventative approach given the observed mode of transmission. 
+
+
+Avian reoviruses (ARV) can be transmitted through multiple routes. Describe the different transmission routes of ARV and explain which environmental factors favor its transmission. What pathogen characteristics support one of these transmission routes? Finally, provide an example of a wild bird disease caused by ARV and briefly describe its impact on the affected population. (6 points)
+
+Avian reoviruses (ARV) can spread vertically from the mother or horizontally by fecal-oral transmission.  The majority of infections are believed to be caused by fecal-oral transfer, frequently as a result of vertical transmission.  The fecal-oral pathway is how a congenitally contaminated chick distributes the illness across a flock.  Overcrowding, inadequate ventilation, and poor hygiene all contribute to fecal-oral transmission.  Fecal-oral transmission is further supported by the pathogen's resilience and persistence for weeks in the environment or on surfaces.
+
+Commercial and wild hens, ARV results in arthritis and swollen tendons.  Joint swelling and inability to walk are symptoms.  ARV-caused ailments reduce or eliminate the ability for wild bird populations to forage for food or escape from predators.  While illness in commercial chickens can also be fatal due to decisions about treatment costs and product value, predation on sick wild birds is also fatal.
+
+
+Langya henipavirus (LayV) is an emerging zoonotic virus first identified in China.Describe the likely reservoir and transmission route of Langya virus. Why is LayV classified as a spillover and not a potential EID? (6 points)
+
+Shrews are the reservoir for LayV, because of some surveillance tests of animals in the provinces of Shandong and Henan where cases were reported.  Shrews are common in the rural parts of China, and the majority of the cases involved farmers or frequent wildlife exposure. LayV is spread by direct or indirect contact with shrews and their body fluids. Since LayV has not been shown to spread from person to person, it is not considered an EID.  A prospective EID has the capacity to infect individuals and maintain infection within that group.  Since the 2018–2022 outbreak, no new cases have been reported.
+
+
 
 
 
