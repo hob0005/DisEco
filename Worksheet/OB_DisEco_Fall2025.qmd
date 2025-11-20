@@ -116,6 +116,75 @@ Shrews are the reservoir for LayV, because of some surveillance tests of animals
 
 
 
+There is a statistical difference between the raccoon roundworm prevalences in the three regions. The prevalence between the central region and the north region (p-value=0.0256) and the central region and the south region (p-value=0.0015) have significant difference, but there is no significant difference between the north and south (p-value=1). The quantity of raccoons and the persistence of raccoon roundworm eggs in the environment may have differences geographically. The central and southern regions might have more or better-established raccoon latrines. There may be geographical variations in raccoon density or in the presence and persistence of raccoon roundworm eggs in the environment.  
+
+There was a significant difference between the prevalence of raccoon roundworm in females compared to males (p-value=0.0087). The prevalence within females was only significant in the south region (p-value=0.0030). There is also a significance between females and males in the central region (p-value=0.0859).  Females having a increased prevalence may suggest social or reproductive behavioral differences that put females in greater contact with contaminated environments or raccoon latrines.  
+
+There was no significant difference in prevalence of raccoon roundworm in adults compared to young adults (p-value=0.2206). There was no significant difference for the prevalence of raccoon roundworm between ages within each region. This poses a need for more research on the differences in environment and population. The southern region has the biggest health risk and environmental risk to people specifically children and domestic animals 
+
+Regions 
+
+Central: 9 /14 infected, prevalence 64.3%, lower 37.1%, upper 84.7% 
+
+North: 14/ 49 infected, prevalence 28.6%, lower 17.0%, upper 42.8% 
+
+South: 27/43 infected, prevalence 62.8%, lower 47.7%, upper 75.9% 
+
+p-value central and north: 0.0256 
+
+p-value central and south: 0.0015 
+
+p-value north and south: 1.0 
+
+p-value regions: 0.0016 
+
+ 
+
+Sex 
+
+Female: 24/37 infected, prevalence 64.9%, lower 48.6%, upper 78.6% 
+
+Male: 26/69 infected, prevalence 37.7%, lower 26.7%, upper 50.0% 
+
+p-value sex: 0.0087 
+
+ 
+
+Age  
+
+Adult: 36/69 infected, prevalence 52.2%, lower 40.4%, upper 63.8% 
+
+Young Adult: 14/37 infected, prevalence 37.8%, lower 23.4%, upper 54.1% 
+
+p-value age: 0.2206 
+
+ 
+
+Sex by Region 
+
+p-value central region, sex: 0.0859; central females 100% prevalence 5/5, central males 44.4% prevalence 4/9 
+
+p-value northern region, sex: 0.2219; northern females 38.1% prevalence 8/21, northern males 21.4% prevalence 6/28 
+
+p-value south region, sex: 0.0030; south females 100% prevalence (11 of 11), south males 50.0% prevalence 16/32
+
+ 
+
+Age Class by Region 
+
+p-value central region, age: 1.0; central adults 61.5% prevalence 8/13, central young adults 100% prevalence 1/1 
+
+p-value north region, age: 1.0; north adults 28.0% prevalence 7/25, north young adults 29.2% prevalence 7/24 
+
+p-value south region, age: 0.3126; south adults 67.7% prevalence 21/31, south young adults 50.0% prevalence 6/12 
+
+ 
+
+ 
+
+
+
+
 
 
 
